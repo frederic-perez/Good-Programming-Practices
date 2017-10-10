@@ -1,5 +1,9 @@
 # Good-Programming-Practices
 
+<p align="center">
+  <img src="images/always-code-as-if-the-guy-who-ends-up-maintaining--400x200.jpg?raw=true" alt="Martin Golding quote"/>
+</p>
+
 ## Principles of Software Development
 
 - DRY (Don't Repeat Yourself) vs WET (We Edit Terribly, We Enjoy Typing...)
