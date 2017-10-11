@@ -15,9 +15,9 @@
   - O: [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
     > “software entities ... should be open for extension, but closed for modification.”
   - L: [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-    > “objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.” See also design by contract.
+    > “objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
   - I: [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-    > “many client-specific interfaces are better than one general-purpose interface.”[8]
+    > “many client-specific interfaces are better than one general-purpose interface.”
   - D: [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
     > one should “depend upon abstractions, [not] concretions"
 
