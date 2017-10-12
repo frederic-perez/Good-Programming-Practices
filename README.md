@@ -4,6 +4,9 @@
   <img src="images/always-code-as-if-the-guy-who-ends-up-maintaining--400x200.jpg?raw=true" alt="Martin Golding quote"/>
 </p>
 
+- _"Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+- _"We feel that there is no point in developing software unless you care about doing it well."_ -- Andrew Hunt, David Thomas, _The Pragmatic Programmer: From Journeyman to Master_
+
 ## Principles of Software Development
 
 - DRY (Don't Repeat Yourself) vs WET (We Edit Terribly, We Enjoy Typing...)
@@ -37,6 +40,7 @@ Sort of alphabetically sorted:
 - Bjarne Stroustrup
 - Herb Sutter
 - Jason Turner: GitHub: [lefticus](https://github.com/lefticus)
+- Kent Beck
 - Robert C. Martin
 - Scott Meyers
 
