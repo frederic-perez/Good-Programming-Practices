@@ -32,7 +32,13 @@
 - Unit Testing
   - Great naming convention by Angel Costela:  __Given__\_state\_a\___When__\_b\_happens\___Then__\_return\_{true|false|...}
 
-## Uncomplete list of favorite gurus
+### First and foremost: Zero compiler warnings policy
+
+The first tool against software bugs, perhaps right after writing clean code, and right before using static analyzers, should be using adequate compiler(s) warning flags, and achieving zero warnings. During my career I've suffered time and again bugs in production very hard to pinpoint that could have been eradicated simply by taking care of compiler warnings. This has a high cost in time and money, in addition to experiencing a high level of frustration.
+
+It is important to point out that the goal is not simply "get rid of the warning" (or, in other words, "satisfy the compiler"), but to actually fix the code. In the past I've seen "fixes" to satisfy the compiler that actually introduced bugs--not a good tradeoff!
+
+## Incomplete list of favorite gurus
 
 Sort of alphabetically sorted:
 
@@ -48,7 +54,12 @@ Sort of alphabetically sorted:
 
 - Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - Notes on GitHub: [jbarroso/clean-code](https://github.com/jbarroso/clean-code)
+- Robert C. Martin, _Agile Software Development, Principles, Patterns, and Practices_
 
 ## Miscellany
 
+### TODO
+
 - Move stuff from ABcb here?
+- Cost of a bug image?
+- Copy stuff from my GTD files plus my old programming practices presentation?
