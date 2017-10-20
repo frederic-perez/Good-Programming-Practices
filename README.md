@@ -14,15 +14,16 @@
   > acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
 
   - S: [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-    > a class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class)
+    > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
+    > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
   - O: [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
-    > “software entities ... should be open for extension, but closed for modification.”
+    > “Software entities ... should be open for extension, but closed for modification.”
   - L: [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-    > “objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
+    > “Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
   - I: [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-    > “many client-specific interfaces are better than one general-purpose interface.”
+    > “Many client-specific interfaces are better than one general-purpose interface.”
   - D: [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-    > one should “depend upon abstractions, [not] concretions"
+    > "One should “depend upon abstractions, [not] concretions"
 
 ## To be classified
 
