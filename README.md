@@ -31,10 +31,32 @@
 - BDD
 - XP
 - Unit Testing
-- [Given-When-Then (GWT)](https://en.m.wikipedia.org/wiki/Given-When-Then) 
+- [Given-When-Then (GWT)](https://en.m.wikipedia.org/wiki/Given-When-Then),  
+  [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html),  
+  [Arrange-Act-Assert (AAA)](http://wiki.c2.com/?ArrangeActAssert)  
+
   - From [Martin Fowler's article](https://martinfowler.com/bliki/GivenWhenThen.html):
-    >  It's an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html) pattern.
+    >  It's an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the Four-Phase Test pattern.
+
+    Four-Phase Test pattern: 1. Setup 2. Execute 3. Check 4. Teardown
+
   - Example of the naming convention introduced to me by [Angel Costela](https://www.linkedin.com/in/angel-costela-sanmiguel-b84229a6/):  __Given__\_state\__A_\___When__\__B_\_happens\___Then__\_these\_conditions\_must\_be\_met\()
+
+  - Pseudo-code example:
+    ```c++
+    void Given_state_a_When_B_happens_Then_these_conditions_must_be_met() {
+      // Given | Setup    | Arrange
+      set_state_A();
+
+      // When  | Execute  | Act
+      B();
+
+      // Then  | Check    | Assert
+      assert(condition_1 and condition2);
+
+      //       | Teardown |
+    }
+    ```
 
 ### First and foremost: Zero compiler warnings policy
 
