@@ -31,7 +31,10 @@
 - BDD
 - XP
 - Unit Testing
-  - Great naming convention by Angel Costela:  __Given__\_state\_a\___When__\_b\_happens\___Then__\_return\_{true|false|...}
+- [Given-When-Then (GWT)](https://en.m.wikipedia.org/wiki/Given-When-Then) 
+  - From [Martin Fowler's article](https://martinfowler.com/bliki/GivenWhenThen.html):
+    >  It's an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html) pattern.
+  - Example of the naming convention introduced to me by [Angel Costela](https://www.linkedin.com/in/angel-costela-sanmiguel-b84229a6/):  __Given__\_state\__A_\___When__\__B_\_happens\___Then__\_these\_conditions\_must\_be\_met\()
 
 ### First and foremost: Zero compiler warnings policy
 
