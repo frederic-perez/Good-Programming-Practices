@@ -40,21 +40,22 @@
 
     Four-Phase Test pattern: 1. Setup 2. Execute 3. Check 4. Teardown
 
+    |   | GWT   | Four Ph. | AAA
+    | - | :---: |:--------:| :-:
+    | 1 | Given | Setup    | Arrange
+    | 2 | When  | Execute  | Act
+    | 3 | Then  | Check    | Assert
+    | 4 |       | Teardown |
+
   - Example of the naming convention introduced to me by [Angel Costela](https://www.linkedin.com/in/angel-costela-sanmiguel-b84229a6/):  __Given__\_state\__A_\___When__\__B_\_happens\___Then__\_these\_conditions\_must\_be\_met\()
 
   - Pseudo-code example:
     ```c++
-    void Given_state_a_When_B_happens_Then_these_conditions_must_be_met() {
-      // Given | Setup    | Arrange
-      set_state_A();
-
-      // When  | Execute  | Act
-      B();
-
-      // Then  | Check    | Assert
-      assert(condition_1 and condition2);
-
-      //       | Teardown |
+    void Given_state_A_When_B_happens_Then_these_conditions_must_be_met() {
+      set_state_A();                      // Given | Setup    | Arrange
+      B();                                // When  | Execute  | Act
+      assert(condition_1 and condition2); // Then  | Check    | Assert
+      ;                                   //       | Teardown |
     }
     ```
 
@@ -83,9 +84,3 @@ Sort of alphabetically sorted:
 - Robert C. Martin, _Agile Software Development, Principles, Patterns, and Practices_
 
 ## Miscellany
-
-### TODO
-
-- Move stuff from ABcb here?
-- Cost of a bug image?
-- Copy stuff from my GTD files plus my old programming practices presentation?
