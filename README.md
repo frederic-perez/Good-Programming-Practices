@@ -59,11 +59,23 @@
     }
     ```
 
-### First and foremost: Zero compiler warnings policy
+### First and foremost: Compilers and static analyzers are our friends
+
+#### Compilers, not compiler
+
+#### Zero compiler warnings policy
 
 The first tool against software bugs, perhaps right after writing clean code, and right before using static analyzers, should be using adequate compiler(s) warning flags, and achieving zero warnings. During my career I've suffered time and again bugs in production very hard to pinpoint that could have been eradicated simply by taking care of compiler warnings. This has a high cost in time and money, in addition to experiencing a high level of frustration.
 
 It is important to point out that the goal is not simply "get rid of the warning" (or, in other words, "satisfy the compiler"), but to actually fix the code. In the past I've seen "fixes" to satisfy the compiler that actually introduced bugs--not a good tradeoff!
+
+#### Preventive coding
+
+Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I'm also an advocate of extensive use of the keyword `const`, and, from C++11, forbid `NULL` favoring `nullptr` instead.
+
+#### Static analyzers
+
+I'm a huge fan of Cppcheck, since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
 
 ## Incomplete list of favorite gurus
 
