@@ -9,21 +9,28 @@
 
 ## Principles of Software Development
 
-- DRY (Don't Repeat Yourself) vs WET (We Edit Terribly, We Enjoy Typing...)
-- [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-  > acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
+- [From STUPID to SOLID code](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/), by [William Durand](http://williamdurand.fr/)
+  - STUPID
+    - Singleton
+    - Tight Coupling
+    - Untestability
+    - Premature Optimization
+    - Indescriptive Naming
+    - Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ (Don't Repeat Yourself)
+  - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+    > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
 
-  - S: [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-    > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
-    > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
-  - O: [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
-    > “Software entities ... should be open for extension, but closed for modification.”
-  - L: [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-    > “Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
-  - I: [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-    > “Many client-specific interfaces are better than one general-purpose interface.”
-  - D: [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-    > "One should “depend upon abstractions, [not] concretions"
+    - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+      > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
+      > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
+    - [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
+      > “Software entities ... should be open for extension, but closed for modification.”
+    - [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+      > “Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
+    - [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+      > “Many client-specific interfaces are better than one general-purpose interface.”
+    - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+      > "One should “depend upon abstractions, [not] concretions"
 
 ## To be classified
 
@@ -75,7 +82,7 @@ Whenever possible, take advantage of __static assertions__ to discover coding pr
 
 #### Static analyzers
 
-I'm a huge fan of Cppcheck, since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
+I'm a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
 
 ## Incomplete list of favorite gurus
 
