@@ -9,7 +9,7 @@
 
 ## Principles of Software Development
 
-- [From STUPID to SOLID code](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/), by [William Durand](http://williamdurand.fr/)
+- From STUPID to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
   - STUPID
     - Singleton
     - Tight Coupling
@@ -62,6 +62,8 @@
     }
     ```
 
+- From _C++Now 2017_, Kris Jusiak's “Towards Painless Testing" [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
+
 ### First and foremost: Compilers and static analyzers are our friends
 
 #### Compilers, not compiler
@@ -84,11 +86,12 @@ I'm a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has hel
 
 Sort of alphabetically sorted:
 
-- Andrew Sutton: GitHub: [asutton](https://github.com/asutton)
+- Andrew Sutton: :octocat: [asutton](https://github.com/asutton)
 - Bjarne Stroustrup
 - Herb Sutter
-- Jason Turner: GitHub: [lefticus](https://github.com/lefticus)
+- Jason Turner: :octocat: [lefticus](https://github.com/lefticus)
 - Kent Beck
+- Krzysztof/Kris Jusiak: :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
 - Robert C. Martin
 - Scott Meyers
 
