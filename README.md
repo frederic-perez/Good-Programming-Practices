@@ -34,7 +34,17 @@
 
 ## Unit Testing
 
+### Frameworks
+
 - [List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
+- Google Mock, the Google C++ mocking framework
+  - :octocat: [googlemock](https://github.com/google/googletest/tree/master/googlemock)
+  - [README.md](https://github.com/google/googletest/blob/master/googlemock/README.md)
+  - [CheatSheet](https://github.com/google/googletest/blob/master/googlemock/docs/CheatSheet.md)
+  - [CookBook](https://github.com/google/googletest/blob/master/googlemock/docs/CookBook.md)
+- [GUnit](https://github.com/cpp-testing/GUnit), GoogleTest/GoogleMock/Cucumber on steroids, by Kris Jusiak
+
+### Principles++
 
 - [Given-When-Then (GWT)](https://en.m.wikipedia.org/wiki/Given-When-Then),
   [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html),
@@ -102,5 +112,3 @@ Sort of alphabetically sorted:
 - Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - Notes on GitHub: [jbarroso/clean-code](https://github.com/jbarroso/clean-code)
 - Robert C. Martin, _Agile Software Development, Principles, Patterns, and Practices_
-
-## Miscellany
