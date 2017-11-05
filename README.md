@@ -32,6 +32,24 @@
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > "One should “depend upon abstractions, [not] concretions"
 
+## Guidelines
+
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
+  - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
+    1. [C.45](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-default): Don't define a default constructor that only initializes data members; use in-class member initializers instead, and 
+      [C.48](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-in-class-initializer): Prefer in-class initializers to member initializers in constructors for constant initializers
+    2. [F.51](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-default-args): Where there is a choice, prefer default arguments over overloading
+    3. [C.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-order): Define and initialize member variables in the order of member declaration
+    4. [I.23](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nargs): Keep the number of function arguments low
+    5. [ES.50](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-casts-const): Don't cast away `const`
+    6. [I.11](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-raw): Never transfer ownership by a raw pointer (`T*`) or reference (`T&`)
+    7. [F.21](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-out-multi): To return multiple "out" values, prefer returning a tuple or struct
+    8. [Enum.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Renum-class): Prefer `enum class`es over "plain" `enum`s
+    9. [I.12](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nullptr): Declare a pointer that must not be null as `not_null`
+    10. [ES.46](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
+- Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
+- [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
+
 ## Unit Testing
 
 ### Frameworks
@@ -102,6 +120,7 @@ Sort of alphabetically sorted:
 - Bjarne Stroustrup
 - Herb Sutter
 - Jason Turner: :octocat: [lefticus](https://github.com/lefticus)
+- Kate Gregory
 - Kent Beck
 - Krzysztof/Kris Jusiak: :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
 - Robert C. Martin
