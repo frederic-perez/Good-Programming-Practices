@@ -116,6 +116,12 @@ Whenever possible, take advantage of __static assertions__ to discover coding pr
 
 I'm a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
 
+## Code Reviews
+
+<p align="center">
+  <img src="images/WTFs-per-minute-400x362.png?raw=true" alt="(c) 2008 Focus Shift/OSNews/Thom Holwerda" longdesc="http://www.osnews.com/story/19266/WTFs_m"/>
+</p>
+
 ## Incomplete list of favorite gurus
 
 Sort of alphabetically sorted:
