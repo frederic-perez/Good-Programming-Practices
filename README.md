@@ -32,7 +32,7 @@
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > "One should “depend upon abstractions, [not] concretions"
 
-## Guidelines
+## (C++) Guidelines
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
   - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
@@ -61,6 +61,10 @@
   - [CheatSheet](https://github.com/google/googletest/blob/master/googlemock/docs/CheatSheet.md)
   - [CookBook](https://github.com/google/googletest/blob/master/googlemock/docs/CookBook.md)
 - [GUnit](https://github.com/cpp-testing/GUnit), GoogleTest/GoogleMock/Cucumber on steroids, by Kris Jusiak
+
+#### Criticism
+
+- Peter Sommerlad, _Mocking Frameworks considered harmful_ ([talk](https://www.youtube.com/watch?v=uhuHZXTRfH4)), CppCon 2017
 
 ### Principles++
 
