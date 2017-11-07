@@ -119,8 +119,11 @@ I'm a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has hel
 ## Code Reviews
 
 <p align="center">
-  <img src="images/WTFs-per-minute-400x362.png?raw=true" alt="(c) 2008 Focus Shift/OSNews/Thom Holwerda" longdesc="http://www.osnews.com/story/19266/WTFs_m"/>
+  <img src="images/WTFs-per-minute-400x362.png?raw=true" alt="(c) 2008 Focus Shift/OSNews/Thom Holwerda"/><br>
+  <a href="http://www.osnews.com/story/19266/WTFs_m">(c) 2008 Focus Shift/OSNews/Thom Holwerda</a>
 </p>
+
+Code reviews represent opportunities to learn and share good stuff from the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
 
 ## Incomplete list of favorite gurus
 
