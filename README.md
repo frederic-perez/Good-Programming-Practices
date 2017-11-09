@@ -32,7 +32,7 @@
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > "One should “depend upon abstractions, [not] concretions"
 
-## (C++) Guidelines
+## (C++) Guidelines and Coding Standards
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
   - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
@@ -49,6 +49,7 @@
     10. [ES.46](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
+- [JUCE Coding Standards](https://juce.com/learn/coding-standards)
 
 ## Unit Testing
 
