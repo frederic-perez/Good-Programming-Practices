@@ -52,6 +52,9 @@
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
+- Comments:
+  - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood
+  - _"The proper use of comments is to compensate for our failure to express ourself in code."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
 
 ## Unit Testing
 
