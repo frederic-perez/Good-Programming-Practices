@@ -47,6 +47,8 @@
     8. [Enum.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Renum-class): Prefer `enum class`es over "plain" `enum`s
     9. [I.12](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nullptr): Declare a pointer that must not be null as `not_null`
     10. [ES.46](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
+  - My own incomplete list of selected guidelines:
+    - On constness: ES.25
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
