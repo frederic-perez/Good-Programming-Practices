@@ -30,7 +30,7 @@
     - [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
       > “Many client-specific interfaces are better than one general-purpose interface.”
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-      > "One should “depend upon abstractions, [not] concretions"
+      > One should “depend upon abstractions, [not] concretions"
 
 ## (C++) Guidelines and Coding Standards
 
