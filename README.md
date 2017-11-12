@@ -48,7 +48,8 @@
     9. [I.12](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nullptr): Declare a pointer that must not be null as `not_null`
     10. [ES.46](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
   - My own incomplete list of selected guidelines:
-    - On constness: ES.25
+    - On constness: [ES.25](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-const): Declare an object `const` or `constexpr` unless you want to modify its value later on
+    - On pointers: [ES.24](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-unique): Use a `unique_ptr<T>` to hold pointers
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
