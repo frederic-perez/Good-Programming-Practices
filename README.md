@@ -32,6 +32,7 @@
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > One should “depend upon abstractions, [not] concretions"
 
+- [KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle) principle
 - [YAGNI (You aren't gonna need it)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
 
 ## (C++) Guidelines and Coding Standards
