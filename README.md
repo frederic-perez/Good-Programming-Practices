@@ -32,6 +32,8 @@
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > One should “depend upon abstractions, [not] concretions"
 
+- [YAGNI (You aren't gonna need it)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
+
 ## (C++) Guidelines and Coding Standards
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
