@@ -3,7 +3,7 @@
   "MD029": false,
   "MD033": {
     "allowed_elements": [
-      "img", "p"
+      "a", "br", "img", "p"
     ]
   }
 }
