@@ -16,6 +16,10 @@ Some great reminders:
 
   - _"It was the bad code that brought the company down."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
 
+- On __technical debt__:
+
+  - _"Later equals never."_ -- LeBlanc's law.
+
 ## Principles of Software Development
 
 - From STUPID to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
