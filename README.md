@@ -121,6 +121,12 @@ Some great reminders:
 
 - From _C++Now 2017_, Kris Jusiak's “Towards Painless Testing" [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
 
+## On bugs
+
+Since the cost of fixing a bug soars depending on how far in the software development life cycle it is found. We should then try to locate them as sooner as possible. 
+
+Some of the most nefararious bugs we might find are [heisenbug](https://en.wikipedia.org/wiki/Heisenbug)s and those caused by code with undefined behavior.
+
 ### First and foremost: Compilers and static analyzers are our friends
 
 #### Compilers, not compiler
