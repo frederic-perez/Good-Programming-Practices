@@ -43,7 +43,7 @@ Some great reminders:
     - [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
       > “Many client-specific interfaces are better than one general-purpose interface.”
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-      > One should “depend upon abstractions, [not] concretions"
+      > One should “depend upon abstractions, [not] concretions"
 
 - [KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle) principle
 - [YAGNI (You aren't gonna need it)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
@@ -70,7 +70,7 @@ Some great reminders:
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
 - Comments:
-  - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood
+  - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood (from his computer programming blog _Coding Horror_)
   - _"The proper use of comments is to compensate for our failure to express ourself in code."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
 
 ## Unit Testing
