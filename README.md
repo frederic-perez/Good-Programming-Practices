@@ -45,8 +45,10 @@ Some great reminders:
     - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > One should “depend upon abstractions, [not] concretions"
 
-- [KISS (Keep It Simple, Stupid)](https://en.wikipedia.org/wiki/KISS_principle) principle
-- [YAGNI (You aren't gonna need it)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
+- [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle) principle
+- [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
+- [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript's Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
+- [YAGNI (You aren't gonna need it) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
 
 ## (C++) Guidelines and Coding Standards
 
