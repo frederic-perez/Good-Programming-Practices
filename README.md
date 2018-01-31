@@ -29,7 +29,7 @@ Some great reminders:
     - Untestability
     - Premature Optimization
     - Indescriptive Naming
-    - Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ (Don't Repeat Yourself)
+    - Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don't Repeat Yourself](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself))
   - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
     > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
 
@@ -49,6 +49,10 @@ Some great reminders:
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript's Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
 - [YAGNI (You aren't gonna need it) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
+
+## Rules
+
+- [The Boy Scout rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
 
 ## (C++) Guidelines and Coding Standards
 
