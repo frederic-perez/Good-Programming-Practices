@@ -48,7 +48,7 @@ Some great reminders:
 - [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle) principle
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript's Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
-- [YAGNI (You aren't gonna need it) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
+- [YAGNI (You Aren't Gonna Need It) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
 
 ## Rules
 
@@ -129,9 +129,9 @@ Some great reminders:
 
 ## On bugs
 
-Since the cost of fixing a bug soars depending on how far in the software development life cycle it is found. We should then try to locate them as sooner as possible. 
+Since the cost of fixing a bug soars depending on how far in the software development life cycle it is found. We should then try to locate them as sooner as possible.
 
-Some of the most nefararious bugs we might find are [heisenbug](https://en.wikipedia.org/wiki/Heisenbug)s and those caused by code with undefined behavior.
+Some of the most nefarious bugs we might find are [heisenbug](https://en.wikipedia.org/wiki/Heisenbug)s and those caused by code with undefined behavior.
 
 ### First and foremost: Compilers and static analyzers are our friends
 
