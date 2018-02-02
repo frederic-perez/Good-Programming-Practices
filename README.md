@@ -46,6 +46,7 @@ Some great reminders:
       > One should “depend upon abstractions, [not] concretions"
 
 - [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle) principle
+- [OAOO (Once and Only Once) principle](http://wiki.c2.com/?OnceAndOnlyOnce)
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript's Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
 - [YAGNI (You Aren't Gonna Need It) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
