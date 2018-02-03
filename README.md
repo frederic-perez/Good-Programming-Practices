@@ -82,6 +82,8 @@ Some great reminders:
 
 ## Unit Testing
 
+- _"Code, without tests, is not clean."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+
 ### Frameworks
 
 - [List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
