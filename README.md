@@ -167,15 +167,20 @@ Code reviews represent opportunities to learn and share good stuff from the [C++
 
 Sort of alphabetically sorted:
 
+- Andrew Hunt
 - Andrew Sutton: :octocat: [asutton](https://github.com/asutton)
 - Bjarne Stroustrup
+- Dave Thomas
 - Herb Sutter
 - Jason Turner: :octocat: [lefticus](https://github.com/lefticus)
 - Kate Gregory
 - Kent Beck
 - Krzysztof/Kris Jusiak: :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
+- Michael Feathers
 - Robert C. Martin
+- Ron Jeffries
 - Scott Meyers
+- Ward Cunningham
 
 ## List of selected great books
 
