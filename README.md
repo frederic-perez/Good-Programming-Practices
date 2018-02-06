@@ -177,6 +177,7 @@ Sort of alphabetically sorted:
 - Kate Gregory
 - Kent Beck
 - Krzysztof/Kris Jusiak: :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
+- Martin Fowler [@martinfowler](https://twitter.com/martinfowler)
 - Michael Feathers
 - Robert C. Martin
 - Ron Jeffries
