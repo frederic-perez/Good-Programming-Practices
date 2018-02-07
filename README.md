@@ -168,21 +168,22 @@ Code reviews represent opportunities to learn and share good stuff from the [C++
 
 Sort of alphabetically sorted:
 
-- Andrew Hunt
+- Andrew Hunt, Andy Hunt [@PragmaticAndy](https://twitter.com/PragmaticAndy)
 - Andrew Sutton: :octocat: [asutton](https://github.com/asutton)
-- Bjarne Stroustrup
-- Dave Thomas
-- Herb Sutter
-- Jason Turner: :octocat: [lefticus](https://github.com/lefticus)
-- Kate Gregory
-- Kent Beck
-- Krzysztof/Kris Jusiak: :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
+- Bjarne Stroustrup [@stroustrup](https://twitter.com/stroustrup)
+- Dave Thomas [@pragdave](https://twitter.com/pragdave)
+- Herb Sutter [@herbsutter](https://twitter.com/herbsutter)
+- Jason Turner: [@lefticus](https://twitter.com/lefticus) :octocat: [lefticus](https://github.com/lefticus)
+- Kate Gregory [@gregcons](https://twitter.com/gregcons)
+- Kent Beck [@KentBeck](https://twitter.com/KentBeck)
+- Krzysztof/Kris Jusiak: [@krisjusiak](https://twitter.com/krisjusiak) :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
 - Martin Fowler [@martinfowler](https://twitter.com/martinfowler)
-- Michael Feathers
-- Robert C. Martin
-- Ron Jeffries
-- Scott Meyers
-- Ward Cunningham
+- Michael Feathers [@mfeathers](https://twitter.com/mfeathers)
+- Nicolai Josuttis [@NicoJosuttis](https://twitter.com/NicoJosuttis)
+- Robert C. Martin [@unclebobmartin](https://twitter.com/unclebobmartin)
+- Ron Jeffries [@RonJeffries](https://twitter.com/RonJeffries)
+- Scott Meyers [@Scott__Meyers](https://twitter.com/Scott__Meyers)
+- Ward Cunningham [@WardCunningham](https://twitter.com/WardCunningham)
 
 ## List of selected great books
 
