@@ -168,6 +168,7 @@ Code reviews represent opportunities to learn and share good stuff from the [C++
 
 Sort of alphabetically sorted:
 
+- Andrei Alexandrescu [@incomputable](https://twitter.com/incomputable)
 - Andrew Hunt, Andy Hunt [@PragmaticAndy](https://twitter.com/PragmaticAndy)
 - Andrew Sutton: :octocat: [asutton](https://github.com/asutton)
 - Bjarne Stroustrup [@stroustrup](https://twitter.com/stroustrup)
