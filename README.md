@@ -189,6 +189,7 @@ Sort of alphabetically sorted:
 ## List of selected great books
 
 - Andrew Hunt and David Thomas, _The Pragmatic Programmer, From Journeyman To Master_
+- Martin Fowler, Kent Beck, John Brant, William Opdyke and Don Roberts, _Refactoring: Improving the Design of Existing Code_
 - Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - Notes on GitHub: [jbarroso/clean-code](https://github.com/jbarroso/clean-code)
 - Robert C. Martin, _Agile Software Development, Principles, Patterns, and Practices_
