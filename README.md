@@ -174,6 +174,7 @@ Sort of alphabetically sorted:
 - Bjarne Stroustrup [@stroustrup](https://twitter.com/stroustrup)
 - Dave Thomas [@pragdave](https://twitter.com/pragdave)
 - Herb Sutter [@herbsutter](https://twitter.com/herbsutter)
+- Jeff Atwood [@codinghorror](https://twitter.com/codinghorror) · [Coding Horror](https://blog.codinghorror.com) blog
 - Jason Turner: [@lefticus](https://twitter.com/lefticus) :octocat: [lefticus](https://github.com/lefticus)
 - Kate Gregory [@gregcons](https://twitter.com/gregcons)
 - Kent Beck [@KentBeck](https://twitter.com/KentBeck)
