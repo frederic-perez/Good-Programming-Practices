@@ -79,8 +79,9 @@ Some great reminders:
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
 - Comments:
-  - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood (from his computer programming blog _Coding Horror_)
   - _"The proper use of comments is to compensate for our failure to express ourself in code."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+  - _"Don’t comment bad code—rewrite it._" -- Brian W. Kernighan and P. J. Plaugher, _The Elements of Programming Style_
+  - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood (from his computer programming blog _Coding Horror_)
 
 ## Unit Testing
 
