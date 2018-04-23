@@ -108,7 +108,7 @@ Some great reminders:
   [Arrange-Act-Assert (AAA)](http://wiki.c2.com/?ArrangeActAssert)
 
   - From [Martin Fowler's article](https://martinfowler.com/bliki/GivenWhenThen.html):
-    >  It's an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the Four-Phase Test pattern.
+    > It's an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the Four-Phase Test pattern.
 
     Four-Phase Test pattern: 1. Setup 2. Execute 3. Check 4. Teardown
 
@@ -132,6 +132,11 @@ Some great reminders:
     ```
 
 - From _C++Now 2017_, Kris Jusiak's “Towards Painless Testing" [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
+
+### Patterns
+
+- [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
+  > ... is a software design pattern (also known as __Wrapper__, an alternative naming shared with the Decorator pattern) that allows the interface of an existing class to be used as another interface. It is often used to make existing classes work with others without modifying their source code.
 
 ## On bugs
 
