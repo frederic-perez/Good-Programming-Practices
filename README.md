@@ -20,6 +20,10 @@ Some great reminders:
 
   - _"Later equals never."_ -- LeBlanc's law.
 
+## Software Quality
+
+- [Wikipedia entry on Software quality](https://en.m.wikipedia.org/wiki/Software_quality)
+
 ## Principles of Software Development
 
 - From STUPID to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
