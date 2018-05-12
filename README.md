@@ -193,7 +193,7 @@ Sort of alphabetically sorted:
 - Martin Fowler [@martinfowler](https://twitter.com/martinfowler)
 - Michael Feathers [@mfeathers](https://twitter.com/mfeathers)
 - Nicolai Josuttis [@NicoJosuttis](https://twitter.com/NicoJosuttis)
-- Robert C. Martin [@unclebobmartin](https://twitter.com/unclebobmartin)
+- Robert C. Martin [@unclebobmartin](https://twitter.com/unclebobmartin) | [Clean Code quotes](https://www.goodreads.com/work/quotes/18312943-the-robert-c-martin-clean-code-collection-collection)
 - Ron Jeffries [@RonJeffries](https://twitter.com/RonJeffries)
 - Scott Meyers [@Scott__Meyers](https://twitter.com/Scott__Meyers)
 - Ward Cunningham [@WardCunningham](https://twitter.com/WardCunningham)
