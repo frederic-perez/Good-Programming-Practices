@@ -51,7 +51,7 @@ Some great reminders:
       > One should “depend upon abstractions, [not] concretions"
 
 - [DAMP (Descriptive And Meaningful Phrases) vs DRY (Don't Repeat Yourself) in unit tests](https://stackoverflow.com/questions/6453235/what-does-damp-not-dry-mean-when-talking-about-unit-tests)
-- [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle) principle
+- [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle)
 - [OAOO (Once and Only Once) principle](http://wiki.c2.com/?OnceAndOnlyOnce)
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript's Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
