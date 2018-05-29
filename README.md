@@ -20,6 +20,10 @@ Some great reminders:
 
   - _"Later equals never."_ -- LeBlanc's law.
 
+- On __Performance Management Objectives__:
+
+  - _"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."_ -- Bill Gates
+
 ## Software Quality
 
 - [Wikipedia entry on Software quality](https://en.m.wikipedia.org/wiki/Software_quality)
