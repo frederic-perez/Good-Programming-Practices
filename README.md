@@ -15,6 +15,7 @@ Some great reminders:
 - On __bad code__:
 
   - _"It was the bad code that brought the company down."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+  - _"Code is like humor. When you have to explain it, it’s bad.”_ -– Cory House
 
 - On __technical debt__:
 
