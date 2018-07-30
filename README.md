@@ -45,7 +45,10 @@ Some great reminders:
 
     - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
       > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
+
       > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
+
+      > Another way to think of SRP: Gather together things that change for the same reasons and at the same times. Separate things that change for different reasons or at different times. [A tweet by @unclebobmartin on July 29, 2018]
     - [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
       > “Software entities ... should be open for extension, but closed for modification.”
     - [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
