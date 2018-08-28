@@ -69,7 +69,7 @@ Some great reminders:
 
 - [The Boy Scout rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
 
-## (C++) Guidelines and Coding Standards
+## (C++) Guidelines, Best Practices, and Coding Standards
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
   - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
@@ -87,6 +87,7 @@ Some great reminders:
   - My own incomplete list of selected guidelines:
     - On constness: [ES.25](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-const): Declare an object `const` or `constexpr` unless you want to modify its value later on
     - On pointers: [ES.24](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-unique): Use a `unique_ptr<T>` to hold pointers
+- [cppbestpractices](https://github.com/lefticus/cppbestpractices), a Collaborative Collection of C++ Best Practices, led by Jason Turner
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
