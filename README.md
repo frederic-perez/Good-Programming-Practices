@@ -38,8 +38,10 @@ Some great reminders:
     - Tight Coupling
     - Untestability
     - Premature Optimization
-    - Indescriptive Naming
+    - Indescriptive Naming (and just Naming, for that matter)
       > _"Choosing good names takes time but saves more than it takes. So take care with your names and __change them__ when you find better ones."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+
+      > _"You should name a variable using the same care with which you name a ﬁrst-born child."_ -- James O. Coplien, in the Foreword of Robert C. Martin's _Clean Code: A Handbook of Agile Software Craftsmanship_
     - Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don't Repeat Yourself](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself))
   - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
     > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
