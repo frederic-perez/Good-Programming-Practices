@@ -6,19 +6,19 @@
 
 Some great reminders:
 
-- On __professionalism__:
+- On __Professionalism__:
 
   - _"Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
 
   - _"We feel that there is no point in developing software unless you care about doing it well."_ -- Andrew Hunt, David Thomas, _The Pragmatic Programmer: From Journeyman to Master_
 
-- On __bad code__ and __good code__:
+- On __Bad Code__ and __Good Code__:
 
   - _"It was the bad code that brought the company down."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - _"Code is like humor. When you have to explain it, it’s bad.”_ -- Cory House
   - _"... good code matters ..."_ -- Kent Beck, _Implementation Patterns_
 
-- On __technical debt__:
+- On __Technical Debt__:
 
   - _"Later equals never."_ -- LeBlanc's law.
 
@@ -117,7 +117,7 @@ Some great reminders:
 
 - Peter Sommerlad, _Mocking Frameworks considered harmful_ ([talk](https://www.youtube.com/watch?v=uhuHZXTRfH4)), CppCon 2017
 
-### Principles++
+### Principles+
 
 - [Given-When-Then (GWT)](https://en.m.wikipedia.org/wiki/Given-When-Then),
   [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html),
