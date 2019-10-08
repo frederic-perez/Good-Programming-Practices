@@ -40,7 +40,7 @@ Some great reminders:
     - Premature Optimization
     - Indescriptive Naming (and just Naming, for that matter)
       > _"Choosing good names takes time but saves more than it takes. So take care with your names and __change them__ when you find better ones."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
-
+      <!-- -->
       > _"You should name a variable using the same care with which you name a ﬁrst-born child."_ -- James O. Coplien, in the Foreword of Robert C. Martin's _Clean Code: A Handbook of Agile Software Craftsmanship_
     - Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don't Repeat Yourself](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself))
   - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
@@ -48,9 +48,9 @@ Some great reminders:
 
     - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
       > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
-
+      <!-- -->
       > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
-
+      <!-- -->
       > Another way to think of SRP: Gather together things that change for the same reasons and at the same times. Separate things that change for different reasons or at different times. [A tweet by @unclebobmartin on July 29, 2018]
     - [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
       > “Software entities ... should be open for extension, but closed for modification.”
@@ -138,6 +138,7 @@ Some great reminders:
   - Example of the naming convention introduced to me by [Angel Costela](https://www.linkedin.com/in/angel-costela-sanmiguel-b84229a6/):  __Given__\_state\__A_\___When__\__B_\_happens\___Then__\_these\_conditions\_must\_be\_met\()
 
   - Example (written as pseudo-code):
+
     ```c++
     void Given_state_A_When_B_happens_Then_these_conditions_must_be_met() {
       set_state_A();                      // Given | Setup    | Arrange
