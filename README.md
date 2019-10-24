@@ -32,8 +32,8 @@ Some great reminders:
 
 ## Principles of Software Development
 
-- From STUPID to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
-  - STUPID
+- From STUPID code to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
+  - STUPID code
     - Singleton
     - Tight Coupling
     - Untestability
@@ -43,7 +43,7 @@ Some great reminders:
       <!-- -->
       > _"You should name a variable using the same care with which you name a ﬁrst-born child."_ -- James O. Coplien, in the Foreword of Robert C. Martin's _Clean Code: A Handbook of Agile Software Craftsmanship_
     - Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don't Repeat Yourself](http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself))
-  - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+  - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) code
     > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
 
     - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
