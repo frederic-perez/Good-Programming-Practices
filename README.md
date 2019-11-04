@@ -46,19 +46,19 @@ Some great reminders:
   - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) code
     > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
 
-    - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+    - [__S__: Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
       > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
       <!-- -->
       > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
       <!-- -->
       > Another way to think of SRP: Gather together things that change for the same reasons and at the same times. Separate things that change for different reasons or at different times. [A tweet by @unclebobmartin on July 29, 2018]
-    - [Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
+    - [__O__: Open/closed principle](https://en.wikipedia.org/wiki/Open/closed_principle)
       > “Software entities ... should be open for extension, but closed for modification.”
-    - [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+    - [__L__: Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
       > “Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.”
-    - [Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+    - [__I__: Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
       > “Many client-specific interfaces are better than one general-purpose interface.”
-    - [Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+    - [__D__: Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > One should “depend upon abstractions, [not] concretions"
 
 - [DAMP (Descriptive And Meaningful Phrases) vs DRY (Don't Repeat Yourself) in unit tests](https://stackoverflow.com/questions/6453235/what-does-damp-not-dry-mean-when-talking-about-unit-tests)
