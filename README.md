@@ -106,11 +106,11 @@ Some great reminders:
 ### Frameworks
 
 - [List of unit testing frameworks](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks)
-- Google Mock, the Google C++ mocking framework
-  - :octocat: [googlemock](https://github.com/google/googletest/tree/master/googlemock)
+- Google Mock (gMock), the Google C++ mocking framework
+  - :octocat: [googlemock repo](https://github.com/google/googletest/tree/master/googlemock)
   - [README.md](https://github.com/google/googletest/blob/master/googlemock/README.md)
-  - [CheatSheet](https://github.com/google/googletest/blob/master/googlemock/docs/CheatSheet.md)
-  - [CookBook](https://github.com/google/googletest/blob/master/googlemock/docs/CookBook.md)
+  - [Cheat Sheet](https://github.com/google/googletest/blob/master/googlemock/docs/cheat_sheet.md)
+  - [Cook Book](https://github.com/google/googletest/blob/master/googlemock/docs/cook_book.md)
 - [GUnit](https://github.com/cpp-testing/GUnit), GoogleTest/GoogleMock/Cucumber on steroids, by Kris Jusiak
 
 #### Criticism
