@@ -70,7 +70,7 @@ Some great reminders:
 
 ## Rules
 
-- [The Boy Scout rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule)
+- [The Boy Scout rule](https://deviq.com/boy-scout-rule/)
 
 ## (C++) Guidelines, Best Practices, and Coding Standards
 
