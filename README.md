@@ -4,6 +4,8 @@
   <img src="images/always-code-as-if-the-guy-who-ends-up-maintaining--400x200.jpg?raw=true" alt="Martin Golding quote"/>
 </p>
 
+First of all, don't forget the [Manifesto for Agile Software Development](https://agilemanifesto.org/) (AKA "the Agile Manifesto").
+
 Some great reminders:
 
 - On __Professionalism__:
