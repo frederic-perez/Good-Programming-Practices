@@ -4,7 +4,10 @@
   <img src="images/always-code-as-if-the-guy-who-ends-up-maintaining--400x200.jpg?raw=true" alt="Martin Golding quote"/>
 </p>
 
-First of all, don't forget the [Manifesto for Agile Software Development](https://agilemanifesto.org/) (AKA "the Agile Manifesto").
+First of all, a few very important related topics (at least to me):
+
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/) (AKA "the Agile Manifesto")
+- [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy
 
 Some great reminders:
 
