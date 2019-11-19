@@ -6,7 +6,11 @@
 
 First of all, a few very important related topics (at least to me):
 
-- [Manifesto for Agile Software Development](https://agilemanifesto.org/) (AKA "the Agile Manifesto")
+- [Manifesto for Agile Software Development](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto) (AKA "the Agile Manifesto")
+
+  - [The Four Values](https://agilemanifesto.org/) of the Agile Manifesto
+  - [The Twelve Principles](https://agilemanifesto.org/principles.html) of the Agile Manifesto
+
 - [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy
 
 Some great reminders:
