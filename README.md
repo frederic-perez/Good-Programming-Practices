@@ -166,7 +166,7 @@ Some great reminders:
 
 ## On bugs
 
-Since the cost of fixing a bug soars depending on how far in the software development life cycle it is found. We should then try to locate them as sooner as possible.
+Since the cost of fixing a [software bug](https://en.wikipedia.org/wiki/Software_bug) soars depending on how far in the software development life cycle it is found. We should then try to locate them as sooner as possible.
 
 Some of the most nefarious bugs we might find are [heisenbug](https://en.wikipedia.org/wiki/Heisenbug)s and those caused by code with undefined behavior.
 
