@@ -13,6 +13,8 @@ First of all, a few very important related topics (at least to me):
 
 - [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy ([article](https://expertprogrammanagement.com/2018/04/servant-leadership/) in the Expert Program Management site)
 
+- Avoiding a low [bus factor](https://en.m.wikipedia.org/wiki/Bus_factor)
+
 Some great reminders:
 
 - On __Professionalism__:
