@@ -11,7 +11,7 @@ First of all, a few very important related topics (at least to me):
   - [The Four Values](https://agilemanifesto.org/) of the Agile Manifesto
   - [The Twelve Principles](https://agilemanifesto.org/principles.html) of the Agile Manifesto
 
-- [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy
+- [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy ([article](https://expertprogrammanagement.com/2018/04/servant-leadership/) in the Expert Program Management site)
 
 Some great reminders:
 
