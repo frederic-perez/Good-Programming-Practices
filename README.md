@@ -122,7 +122,7 @@ Some great reminders:
   - [README.md](https://github.com/google/googletest/blob/master/googlemock/README.md)
   - [Cheat Sheet](https://github.com/google/googletest/blob/master/googlemock/docs/cheat_sheet.md)
   - [Cook Book](https://github.com/google/googletest/blob/master/googlemock/docs/cook_book.md)
-- [GUnit](https://github.com/cpp-testing/GUnit), GoogleTest/GoogleMock/Cucumber on steroids, by Kris Jusiak
+- [GUnit](https://github.com/cpp-testing/GUnit), Google.Test/Google.Mock/Cucumber on steroids on steroids, by Kris Jusiak
 
 #### Criticism
 
