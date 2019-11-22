@@ -201,6 +201,8 @@ I'm a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has hel
 
 Code reviews represent opportunities to learn and share good stuff from the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
 
+> The aim of the guidelines is to help people to use modern C++ effectively. By "modern C++" we mean C++11, C++14, and C++17.
+
 ## Incomplete list of favorite gurus
 
 Sort of alphabetically sorted:
