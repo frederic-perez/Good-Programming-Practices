@@ -163,6 +163,8 @@ Some great reminders:
 
 ### Patterns
 
+Some [software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern):
+
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
   > ... is a software design pattern (also known as __Wrapper__, an alternative naming shared with the Decorator pattern) that allows the interface of an existing class to be used as another interface. It is often used to make existing classes work with others without modifying their source code.
 
