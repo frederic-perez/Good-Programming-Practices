@@ -45,7 +45,7 @@ Some great reminders:
 
 - From STUPID code to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
   - STUPID code
-    - __S__: Singleton
+    - __S__: Singleton > [I.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-singleton): Avoid singletons
     - __T__: Tight Coupling
     - __U__: Untestability
     - __P__: Premature Optimization
