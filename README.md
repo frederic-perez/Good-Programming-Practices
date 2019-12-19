@@ -186,7 +186,7 @@ It is important to point out that the goal is not simply "get rid of the warning
 
 #### Preventive coding
 
-Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I'm also an advocate of extensive use of the keyword `const`, and, from C++11, forbid `NULL` favoring `nullptr` instead.
+Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I'm also an advocate of extensive use of the keyword `const`, and, from C++11, forbid `NULL` favoring `nullptr` instead ([ES.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-nullptr)).
 
 #### Static analyzers
 
