@@ -31,7 +31,7 @@ Some great reminders:
 
 - On __Technical Debt__:
 
-  - _"Later equals never."_ -- LeBlanc's law.
+  - _"Later equals never."_ -- LeBlanc’s law.
 
 - On __Performance Management Objectives__:
 
@@ -52,13 +52,13 @@ Some great reminders:
     - __I__: Indescriptive Naming (and just Naming, for that matter)
       > _"Choosing good names takes time but saves more than it takes. So take care with your names and __change them__ when you find better ones."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
       <!-- -->
-      > _"You should name a variable using the same care with which you name a ﬁrst-born child."_ -- James O. Coplien, in the Foreword of Robert C. Martin's _Clean Code: A Handbook of Agile Software Craftsmanship_
-    - __D__: Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself))
+      > _"You should name a variable using the same care with which you name a ﬁrst-born child."_ -- James O. Coplien, in the Foreword of Robert C. Martin’s _Clean Code: A Handbook of Agile Software Craftsmanship_
+    - __D__: Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don’t Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself))
   - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) code
     > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
 
     - [__S__: Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-      > A class should have only a single responsibility (i.e. changes to only one part of the software's specification should be able to affect the specification of the class).
+      > A class should have only a single responsibility (i.e. changes to only one part of the software’s specification should be able to affect the specification of the class).
       <!-- -->
       > [...] The reason it is important to keep a class focused on a single concern is that it makes the class _more robust_.
       <!-- -->
@@ -72,12 +72,12 @@ Some great reminders:
     - [__D__: Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
       > One should “depend upon abstractions, [not] concretions"
 
-- [DAMP (Descriptive And Meaningful Phrases) vs DRY (Don't Repeat Yourself) in unit tests](https://stackoverflow.com/questions/6453235/what-does-damp-not-dry-mean-when-talking-about-unit-tests)
+- [DAMP (Descriptive And Meaningful Phrases) vs DRY (Don’t Repeat Yourself) in unit tests](https://stackoverflow.com/questions/6453235/what-does-damp-not-dry-mean-when-talking-about-unit-tests)
 - [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle)
 - [OAOO (Once and Only Once) principle](http://wiki.c2.com/?OnceAndOnlyOnce)
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
-- [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript's Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
-- [YAGNI (You Aren't Gonna Need It) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
+- [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript’s Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
+- [YAGNI (You Aren’t Gonna Need It) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
 
 ## Rules
 
@@ -87,12 +87,12 @@ Some great reminders:
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
   - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
-    1. [C.45](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-default): Don't define a default constructor that only initializes data members; use in-class member initializers instead, and
+    1. [C.45](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-default): Don’t define a default constructor that only initializes data members; use in-class member initializers instead, and
       [C.48](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-in-class-initializer): Prefer in-class initializers to member initializers in constructors for constant initializers
     2. [F.51](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-default-args): Where there is a choice, prefer default arguments over overloading
     3. [C.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-order): Define and initialize member variables in the order of member declaration
     4. [I.23](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nargs): Keep the number of function arguments low
-    5. [ES.50](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-casts-const): Don't cast away `const`
+    5. [ES.50](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-casts-const): Don’t cast away `const`
     6. [I.11](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-raw): Never transfer ownership by a raw pointer (`T*`) or reference (`T&`)
     7. [F.21](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-out-multi): To return multiple "out" values, prefer returning a tuple or struct
     8. [Enum.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Renum-class): Prefer `enum class`es over "plain" `enum`s
@@ -134,8 +134,8 @@ Some great reminders:
   [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html),
   [Arrange-Act-Assert (AAA)](http://wiki.c2.com/?ArrangeActAssert)
 
-  - From [Martin Fowler's article](https://martinfowler.com/bliki/GivenWhenThen.html):
-    > It's an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the Four-Phase Test pattern.
+  - From [Martin Fowler’s article](https://martinfowler.com/bliki/GivenWhenThen.html):
+    > It’s an approach developed by Dan North and Chris Matts as part of BDD. [...] You can also look at it as a reformulation of the Four-Phase Test pattern.
 
     Four-Phase Test pattern: 1. Setup 2. Execute 3. Check 4. Teardown
 
@@ -159,7 +159,7 @@ Some great reminders:
     }
     ```
 
-- From _C++Now 2017_, Kris Jusiak's “Towards Painless Testing" [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
+- From _C++Now 2017_, Kris Jusiak’s “Towards Painless Testing" [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
 
 ### Patterns
 
@@ -180,17 +180,17 @@ Some of the most nefarious bugs we might find are [heisenbug](https://en.wikiped
 
 #### Zero compiler warnings policy
 
-The first tool against software bugs, perhaps right after writing clean code, and right before using static analyzers, should be using adequate compiler(s) warning flags, and achieving zero warnings. During my career I've suffered time and again bugs in production very hard to pinpoint that could have been eradicated simply by taking care of compiler warnings. This has a high cost in time and money, in addition to experiencing a high level of frustration.
+The first tool against software bugs, perhaps right after writing clean code, and right before using static analyzers, should be using adequate compiler(s) warning flags, and achieving zero warnings. During my career I’ve suffered time and again bugs in production very hard to pinpoint that could have been eradicated simply by taking care of compiler warnings. This has a high cost in time and money, in addition to experiencing a high level of frustration.
 
-It is important to point out that the goal is not simply "get rid of the warning" (or, in other words, "satisfy the compiler"), but to actually fix the code. In the past I've seen "fixes" to satisfy the compiler that actually introduced bugs--not a good tradeoff!
+It is important to point out that the goal is not simply "get rid of the warning" (or, in other words, "satisfy the compiler"), but to actually fix the code. In the past I’ve seen "fixes" to satisfy the compiler that actually introduced bugs--not a good tradeoff!
 
 #### Preventive coding
 
-Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I'm also an advocate of extensive use of the keyword `const` ([ES.25](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-const)), and, from C++11, forbid `NULL` favoring `nullptr` instead ([ES.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-nullptr)).
+Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I’m also an advocate of extensive use of the keyword `const` ([ES.25](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-const)), and, from C++11, forbid `NULL` favoring `nullptr` instead ([ES.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-nullptr)).
 
 #### Static analyzers
 
-I'm a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
+I’m a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
 
 - [List of tools for static code analysis](https://en.m.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 
