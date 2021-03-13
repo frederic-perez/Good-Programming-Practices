@@ -6,7 +6,7 @@
 
 First of all, a few very important related topics (at least to me):
 
-- [Manifesto for Agile Software Development](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto) (AKA "the Agile Manifesto")
+- [Manifesto for Agile Software Development](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto) (AKA “the Agile Manifesto”)
 
   - [The Four Values](https://agilemanifesto.org/) of the Agile Manifesto
   - [The Twelve Principles](https://agilemanifesto.org/principles.html) of the Agile Manifesto
@@ -19,23 +19,23 @@ Some great reminders:
 
 - On __Professionalism__:
 
-  - _"Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+  - _“Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
 
-  - _"We feel that there is no point in developing software unless you care about doing it well."_ -- Andrew Hunt, David Thomas, _The Pragmatic Programmer: From Journeyman to Master_
+  - _“We feel that there is no point in developing software unless you care about doing it well.”_ -- Andrew Hunt, David Thomas, _The Pragmatic Programmer: From Journeyman to Master_
 
 - On __Bad Code__ and __Good Code__:
 
-  - _"It was the bad code that brought the company down."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
-  - _"Code is like humor. When you have to explain it, it’s bad.”_ -- Cory House
-  - _"... good code matters ..."_ -- Kent Beck, _Implementation Patterns_
+  - _“It was the bad code that brought the company down.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+  - _“Code is like humor. When you have to explain it, it’s bad.”_ -- Cory House
+  - _“... good code matters ...”_ -- Kent Beck, _Implementation Patterns_
 
 - On __Technical Debt__:
 
-  - _"Later equals never."_ -- LeBlanc’s law.
+  - _“Later equals never.”_ -- LeBlanc’s law.
 
 - On __Performance Management Objectives__:
 
-  - _"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."_ -- Bill Gates
+  - _“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”_ -- Bill Gates
 
 ## Software Quality
 
@@ -50,9 +50,9 @@ Some great reminders:
     - __U__: Untestability
     - __P__: Premature Optimization
     - __I__: Indescriptive Naming (and just Naming, for that matter)
-      > _"Choosing good names takes time but saves more than it takes. So take care with your names and __change them__ when you find better ones."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+      > _“Choosing good names takes time but saves more than it takes. So take care with your names and __change them__ when you find better ones.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
       <!-- -->
-      > _"You should name a variable using the same care with which you name a ﬁrst-born child."_ -- James O. Coplien, in the Foreword of Robert C. Martin’s _Clean Code: A Handbook of Agile Software Craftsmanship_
+      > _“You should name a variable using the same care with which you name a ﬁrst-born child.”_ -- James O. Coplien, in the Foreword of Robert C. Martin’s _Clean Code: A Handbook of Agile Software Craftsmanship_
     - __D__: Duplication, also known as __WET__ (We Edit Terribly, We Enjoy Typing...) _vs_ the recommended __DRY__ ([Don’t Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself))
   - [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) code
     > Acronym for five design principles intended to make software designs more understandable, flexible and maintainable.
@@ -70,13 +70,13 @@ Some great reminders:
     - [__I__: Interface segregation principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
       > “Many client-specific interfaces are better than one general-purpose interface.”
     - [__D__: Dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-      > One should “depend upon abstractions, [not] concretions"
+      > One should “depend upon abstractions, [not] concretions”
 
 - [DAMP (Descriptive And Meaningful Phrases) vs DRY (Don’t Repeat Yourself) in unit tests](https://stackoverflow.com/questions/6453235/what-does-damp-not-dry-mean-when-talking-about-unit-tests)
 - [KISS (Keep It Simple, Stupid) principle](https://en.wikipedia.org/wiki/KISS_principle)
 - [OAOO (Once and Only Once) principle](http://wiki.c2.com/?OnceAndOnlyOnce)
 - [Principle of Least Astonishment](https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
-- [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript’s Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): "Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`."
+- [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege): From [TrueScript’s Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html): “Applying the principle of least privilege, all declarations other than those you plan to modify should use `const`.”
 - [YAGNI (You Aren’t Gonna Need It) principle](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), a principle of XP
 
 ## Rules
@@ -94,8 +94,8 @@ Some great reminders:
     4. [I.23](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nargs): Keep the number of function arguments low
     5. [ES.50](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-casts-const): Don’t cast away `const`
     6. [I.11](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-raw): Never transfer ownership by a raw pointer (`T*`) or reference (`T&`)
-    7. [F.21](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-out-multi): To return multiple "out" values, prefer returning a tuple or struct
-    8. [Enum.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Renum-class): Prefer `enum class`es over "plain" `enum`s
+    7. [F.21](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-out-multi): To return multiple “out” values, prefer returning a tuple or struct
+    8. [Enum.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Renum-class): Prefer `enum class`es over “plain” `enum`s
     9. [I.12](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nullptr): Declare a pointer that must not be null as `not_null`
     10. [ES.46](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
   - My own incomplete list of selected guidelines:
@@ -106,13 +106,13 @@ Some great reminders:
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 - [JUCE Coding Standards](https://juce.com/learn/coding-standards)
 - Comments:
-  - _"The proper use of comments is to compensate for our failure to express ourself in code."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
-  - _"Don’t comment bad code—rewrite it._" -- Brian W. Kernighan and P. J. Plaugher, _The Elements of Programming Style_
+  - _“The proper use of comments is to compensate for our failure to express ourself in code.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+  - _“Don’t comment bad code—rewrite it._” -- Brian W. Kernighan and P. J. Plaugher, _The Elements of Programming Style_
   - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood (from his computer programming blog _Coding Horror_)
 
 ## Unit Testing
 
-- _"Code, without tests, is not clean."_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
+- _“Code, without tests, is not clean.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
 
 ### Frameworks
 
@@ -159,7 +159,7 @@ Some great reminders:
     }
     ```
 
-- From _C++Now 2017_, Kris Jusiak’s “Towards Painless Testing" [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
+- From _C++Now 2017_, Kris Jusiak’s “Towards Painless Testing” [(video)](https://www.youtube.com/watch?v=NVrZjT5lW5o) (published on Jun 13, 2017)
 
 ### Patterns
 
@@ -182,7 +182,7 @@ Some of the most nefarious bugs we might find are [heisenbug](https://en.wikiped
 
 The first tool against software bugs, perhaps right after writing clean code, and right before using static analyzers, should be using adequate compiler(s) warning flags, and achieving zero warnings. During my career I’ve suffered time and again bugs in production very hard to pinpoint that could have been eradicated simply by taking care of compiler warnings. This has a high cost in time and money, in addition to experiencing a high level of frustration.
 
-It is important to point out that the goal is not simply "get rid of the warning" (or, in other words, "satisfy the compiler"), but to actually fix the code. In the past I’ve seen "fixes" to satisfy the compiler that actually introduced bugs--not a good tradeoff!
+It is important to point out that the goal is not simply “get rid of the warning” (or, in other words, “satisfy the compiler”), but to actually fix the code. In the past I’ve seen “fixes” to satisfy the compiler that actually introduced bugs--not a good tradeoff!
 
 #### Preventive coding
 
@@ -203,7 +203,7 @@ I’m a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has h
 
 Code reviews represent opportunities to learn and share good stuff from the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
 
-> The aim of the guidelines is to help people to use modern C++ effectively. By "modern C++" we mean C++11, C++14, and C++17.
+> The aim of the guidelines is to help people to use modern C++ effectively. By “modern C++” we mean C++11, C++14, and C++17.
 
 ## Incomplete list of favorite gurus
 
