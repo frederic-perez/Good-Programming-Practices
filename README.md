@@ -81,7 +81,7 @@ Some great reminders:
 
 ## Rules
 
-- [The Boy Scout rule](https://deviq.com/boy-scout-rule/)
+- [The Boy Scout rule](https://deviq.com/principles/boy-scout-rule)
 
 ## (C++) Guidelines, Best Practices, and Coding Standards
 
