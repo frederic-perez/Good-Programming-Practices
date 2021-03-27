@@ -81,7 +81,7 @@ Some great reminders:
 
 ## Rules
 
-- [The Boy Scout rule](https://deviq.com/principles/boy-scout-rule)
+- [The Boy Scout rule](https://deviq.com/principles/boy-scout-rule): “Leave your code better than you found it.” You can also check [the Boy Scout rule in coding](https://skilltomastery.blogspot.com/2016/08/the-boy-scout-rule-in-coding.html), in the context of Clean Code.
 
 ## (C++) Guidelines, Best Practices, and Coding Standards
 
