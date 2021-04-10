@@ -43,7 +43,7 @@ Some great reminders:
 
 ## Principles of Software Development
 
-- From STUPID code to SOLID code ([slides](http://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](http://williamdurand.fr/))
+- From STUPID code to SOLID code ([slides](https://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](https://williamdurand.fr/))
   - STUPID code
     - __S__: Singleton > [I.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-singleton): Avoid singletons
     - __T__: Tight Coupling
@@ -81,7 +81,7 @@ Some great reminders:
 
 ## Rules
 
-- [The Boy Scout rule](https://deviq.com/principles/boy-scout-rule): “Leave your code better than you found it.” You can also check [the Boy Scout rule in coding](https://skilltomastery.blogspot.com/2016/08/the-boy-scout-rule-in-coding.html), in the context of Clean Code.
+- [The Boy Scout rule](https://deviq.com/principles/boy-scout-rule/): “Leave your code better than you found it.” You can also check [the Boy Scout rule in coding](https://skilltomastery.blogspot.com/2016/08/the-boy-scout-rule-in-coding.html), in the context of Clean Code.
 
 ## (C++) Guidelines, Best Practices, and Coding Standards
 
@@ -120,8 +120,8 @@ Some great reminders:
 - Google Mock (gMock), the Google C++ mocking framework
   - :octocat: [googlemock repo](https://github.com/google/googletest/tree/master/googlemock)
   - [README.md](https://github.com/google/googletest/blob/master/googlemock/README.md)
-  - [Cheat Sheet](https://github.com/google/googletest/blob/master/googlemock/docs/cheat_sheet.md)
-  - [Cook Book](https://github.com/google/googletest/blob/master/googlemock/docs/cook_book.md)
+  - [Cheat Sheet](https://google.github.io/googletest/gmock_cheat_sheet.html)
+  - [Cook Book](https://google.github.io/googletest/gmock_cook_book.html)
 - [GUnit](https://github.com/cpp-testing/GUnit), Google.Test/Google.Mock/Cucumber on steroids on steroids, by Kris Jusiak
 
 #### Criticism
@@ -198,7 +198,7 @@ I’m a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has h
 
 <p align="center">
   <img src="images/WTFs-per-minute-400x362.png?raw=true" alt="(c) 2008 Focus Shift/OSNews/Thom Holwerda"/><br>
-  <a href="http://www.osnews.com/story/19266/WTFs_m">(c) 2008 Focus Shift/OSNews/Thom Holwerda</a>
+  <a href="https://www.osnews.com/story/19266/wtfsm/">(c) 2008 Focus Shift/OSNews/Thom Holwerda</a>
 </p>
 
 Code reviews represent opportunities to learn and share good stuff from the [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines).
