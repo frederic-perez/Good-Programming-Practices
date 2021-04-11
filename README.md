@@ -146,7 +146,7 @@ Some great reminders:
     | 3 | Then  | Check    | Assert
     | 4 |       | Teardown |
 
-  - Example of the naming convention introduced to me by [Angel Costela](https://www.linkedin.com/in/angel-costela-sanmiguel-b84229a6/):  __Given__\_state\__A_\___When__\__B_\_happens\___Then__\_these\_conditions\_must\_be\_met\()
+  - Example of the naming convention introduced to me by [Angel Costela](https://www.linkedin.com/in/%F0%9F%92%BB-angel-costela-sanmiguel-b84229a6/):  __Given__\_state\__A_\___When__\__B_\_happens\___Then__\_these\_conditions\_must\_be\_met\()
 
   - Example (written as pseudo-code):
 
