@@ -13,7 +13,7 @@ First of all, a few very important related topics (at least to me):
 
 - [Servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) philosophy ([article](https://expertprogrammanagement.com/2018/04/servant-leadership/) in the Expert Program Management site)
 
-- Avoiding a low [bus factor](https://en.m.wikipedia.org/wiki/Bus_factor)
+- Avoiding a low [bus factor](https://en.wikipedia.org/wiki/Bus_factor)
 
 Some great reminders:
 
@@ -39,7 +39,7 @@ Some great reminders:
 
 ## Software Quality
 
-- [Wikipedia entry on Software quality](https://en.m.wikipedia.org/wiki/Software_quality)
+- [Wikipedia entry on Software quality](https://en.wikipedia.org/wiki/Software_quality)
 
 ## Principles of Software Development
 
@@ -130,7 +130,7 @@ Some great reminders:
 
 ### Principles+
 
-- [Given-When-Then (GWT)](https://en.m.wikipedia.org/wiki/Given-When-Then),
+- [Given-When-Then (GWT)](https://en.wikipedia.org/wiki/Given-When-Then),
   [Four-Phase Test](http://xunitpatterns.com/Four%20Phase%20Test.html),
   [Arrange-Act-Assert (AAA)](http://wiki.c2.com/?ArrangeActAssert)
 
@@ -192,7 +192,7 @@ Whenever possible, take advantage of __static assertions__ to discover coding pr
 
 I’m a huge fan of [Cppcheck](http://cppcheck.sourceforge.net/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
 
-- [List of tools for static code analysis](https://en.m.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
+- [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 
 ## Code Reviews
 
