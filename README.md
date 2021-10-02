@@ -45,7 +45,7 @@ Some great reminders:
 
 - From STUPID code to SOLID code ([slides](https://slides.williamdurand.fr/from-stupid-to-solid-code/#/) by [William Durand](https://williamdurand.fr/))
   - STUPID code
-    - __S__: Singleton > [I.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-singleton): Avoid singletons
+    - __S__: Singleton > [I.3](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Ri-singleton): Avoid singletons
     - __T__: Tight Coupling
     - __U__: Untestability
     - __P__: Premature Optimization
@@ -87,20 +87,20 @@ Some great reminders:
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
   - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
-    1. [C.45](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-default): Don’t define a default constructor that only initializes data members; use in-class member initializers instead, and
-      [C.48](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-in-class-initializer): Prefer in-class initializers to member initializers in constructors for constant initializers
-    2. [F.51](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-default-args): Where there is a choice, prefer default arguments over overloading
-    3. [C.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rc-order): Define and initialize member variables in the order of member declaration
-    4. [I.23](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nargs): Keep the number of function arguments low
-    5. [ES.50](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-casts-const): Don’t cast away `const`
-    6. [I.11](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-raw): Never transfer ownership by a raw pointer (`T*`) or reference (`T&`)
-    7. [F.21](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Rf-out-multi): To return multiple “out” values, prefer returning a tuple or struct
-    8. [Enum.3](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Renum-class): Prefer `enum class`es over “plain” `enum`s
-    9. [I.12](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Ri-nullptr): Declare a pointer that must not be null as `not_null`
-    10. [ES.46](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
+    1. [C.45](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-default): Don’t define a default constructor that only initializes data members; use in-class member initializers instead, and
+      [C.48](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-in-class-initializer): Prefer in-class initializers to member initializers in constructors for constant initializers
+    2. [F.51](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rf-default-args): Where there is a choice, prefer default arguments over overloading
+    3. [C.47](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rc-order): Define and initialize member variables in the order of member declaration
+    4. [I.23](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Ri-nargs): Keep the number of function arguments low
+    5. [ES.50](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-casts-const): Don’t cast away `const`
+    6. [I.11](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Ri-raw): Never transfer ownership by a raw pointer (`T*`) or reference (`T&`)
+    7. [F.21](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rf-out-multi): To return multiple “out” values, prefer returning a tuple or struct
+    8. [Enum.3](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Renum-class): Prefer `enum class`es over “plain” `enum`s
+    9. [I.12](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Ri-nullptr): Declare a pointer that must not be null as `not_null`
+    10. [ES.46](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-narrowing): Avoid lossy (narrowing, truncating) arithmetic conversions
   - My own incomplete list of selected guidelines:
-    - On constness: [ES.25](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-const): Declare an object `const` or `constexpr` unless you want to modify its value later on
-    - On pointers: [ES.24](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-unique): Use a `unique_ptr<T>` to hold pointers
+    - On `const`ness: [ES.25](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-const): Declare an object `const` or `constexpr` unless you want to modify its value later on
+    - On pointers: [ES.24](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-unique): Use a `unique_ptr<T>` to hold pointers
 - [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices), a Collaborative Collection of C++ Best Practices, led by Jason Turner
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
@@ -186,11 +186,11 @@ It is important to point out that the goal is not simply “get rid of the warni
 
 #### Preventive coding
 
-Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I’m also an advocate of extensive use of the keyword `const` ([ES.25](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-const)), and, from C++11, forbid `NULL` favoring `nullptr` instead ([ES.47](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#Res-nullptr)).
+Whenever possible, take advantage of __static assertions__ to discover coding problems at the compilation stage. In C++ I’m also an advocate of extensive use of the keyword `const` ([ES.25](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-const)), and, from C++11, forbid `NULL` favoring `nullptr` instead ([ES.47](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-nullptr)).
 
 #### Static analyzers
 
-I’m a huge fan of [Cppcheck](http://cppcheck.sourceforge.io/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
+I’m a huge fan of [Cppcheck](https://cppcheck.sourceforge.io/), since it has helped me identifying coding bugs which could have slipped through. These coding bugs were sometimes, but _not always_, also detected by the compiler as warnings or even errors!
 
 - [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 
