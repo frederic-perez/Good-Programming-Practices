@@ -101,6 +101,7 @@ Some great reminders:
   - My own incomplete list of selected guidelines:
     - On `const`ness: [ES.25](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-const): Declare an object `const` or `constexpr` unless you want to modify its value later on
     - On pointers: [ES.24](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Res-unique): Use a `unique_ptr<T>` to hold pointers
+    - On reducing verbosity: [T.44](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#Rt-deduce): Use function templates to deduce class template argument types (where feasible)
 - [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices), a Collaborative Collection of C++ Best Practices, led by Jason Turner
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
