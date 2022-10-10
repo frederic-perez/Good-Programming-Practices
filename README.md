@@ -83,7 +83,9 @@ Some great reminders:
 
 - [The Boy Scout rule](https://deviq.com/principles/boy-scout-rule/): “Leave your code better than you found it.” You can also check [the Boy Scout rule in coding](https://skilltomastery.blogspot.com/2016/08/the-boy-scout-rule-in-coding.html), in the context of Clean Code.
 
-## (C++) Guidelines, Best Practices, and Coding Standards
+## Guidelines, Best Practices, and Coding Standards
+
+### C++
 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines), an open source project on GitHub, led by Bjarne Stroustrup, to build modern authoritative guidelines for writing C++ code
   - Kate Gregory, _10 Core Guidelines You Need to Start Using Now_ ([talk](https://www.youtube.com/watch?v=XkDEzfpdcSg)), CppCon 2017
@@ -110,6 +112,10 @@ Some great reminders:
   - _“The proper use of comments is to compensate for our failure to express ourself in code.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - _“Don’t comment bad code—rewrite it._” -- Brian W. Kernighan and P. J. Plaugher, _The Elements of Programming Style_
   - [Coding Without Comments](https://blog.codinghorror.com/coding-without-comments/) article by Jeff Atwood (from his computer programming blog _Coding Horror_)
+
+### Python
+
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
 ## Unit Testing
 
