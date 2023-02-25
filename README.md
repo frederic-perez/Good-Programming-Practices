@@ -107,7 +107,7 @@ Some great reminders:
 - [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices), a Collaborative Collection of C++ Best Practices, led by Jason Turner
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
-- [JUCE Coding Standards](https://juce.com/learn/coding-standards)
+- [JUCE Coding Standards](https://juce.com/coding-standards/)
 - Comments:
   - _“The proper use of comments is to compensate for our failure to express ourself in code.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - _“Don’t comment bad code—rewrite it._” -- Brian W. Kernighan and P. J. Plaugher, _The Elements of Programming Style_
