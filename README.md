@@ -232,7 +232,7 @@ Sort of alphabetically sorted:
 - Nicolai Josuttis [@NicoJosuttis](https://twitter.com/NicoJosuttis)
 - Robert C. Martin [@unclebobmartin](https://twitter.com/unclebobmartin) | [Clean Code Collection quotes](https://www.goodreads.com/work/quotes/18312943-the-robert-c-martin-clean-code-collection-collection) (from _Clean Code_ plus _Clean Coder_)
 - Ron Jeffries [@RonJeffries](https://twitter.com/RonJeffries)
-- Scott Meyers [@Scott__Meyers](https://twitter.com/Scott__Meyers)
+- Scott Meyers [aristeia.com](https://www.aristeia.com/)
 - Ward Cunningham [@WardCunningham](https://twitter.com/WardCunningham)
 
 ## List of selected great books
