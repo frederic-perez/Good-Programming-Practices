@@ -107,7 +107,7 @@ Some great reminders:
 - [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices), a Collaborative Collection of C++ Best Practices, led by Jason Turner
 - Herb Sutter, Andrei Alexandrescu, _C++ Coding Standards: 101 Rules, Guidelines, and Best Practices_, Addison Wesley Professional, 2004
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
-- [JUCE Coding Standards](https://juce.com/coding-standards/)
+- [JUCE Coding Standards](https://juce.com/feature/coding-standards/)
 - Comments:
   - _“The proper use of comments is to compensate for our failure to express ourself in code.”_ -- Robert C. Martin, _Clean Code: A Handbook of Agile Software Craftsmanship_
   - _“Don’t comment bad code—rewrite it._” -- Brian W. Kernighan and P. J. Plaugher, _The Elements of Programming Style_
@@ -226,11 +226,11 @@ Sort of alphabetically sorted:
 - Jason Turner: [@lefticus](https://twitter.com/lefticus) :octocat: [lefticus](https://github.com/lefticus)
 - Kate Gregory [@gregcons](https://twitter.com/gregcons)
 - Kent Beck [@KentBeck](https://twitter.com/KentBeck)
-- Krzysztof/Kris Jusiak: [@krisjusiak](https://twitter.com/krisjusiak) :octocat: [krzysztof-jusiak](https://github.com/krzysztof-jusiak), [kris.jusiak.net](http://kris.jusiak.net/)
+- Kris Jusiak: [@krisjusiak](https://twitter.com/krisjusiak) :octocat: [kris-jusiak](https://github.com/kris-jusiak)
 - Martin Fowler [@martinfowler](https://twitter.com/martinfowler)
 - Michael Feathers [@mfeathers](https://twitter.com/mfeathers)
 - Nicolai Josuttis [@NicoJosuttis](https://twitter.com/NicoJosuttis)
-- Robert C. Martin [@unclebobmartin](https://twitter.com/unclebobmartin) | [Clean Code Collection quotes](https://www.goodreads.com/work/quotes/18312943-the-robert-c-martin-clean-code-collection-collection) (from _Clean Code_ plus _Clean Coder_)
+- Robert C. Martin [@unclebobmartin](https://twitter.com/unclebobmartin) | [Clean Code Collection quotes](https://www.goodreads.com/work/quotes/18312943-the-robert-c-martin-clean-code-collection) (from _Clean Code_ plus _Clean Coder_)
 - Ron Jeffries [@RonJeffries](https://twitter.com/RonJeffries)
 - Scott Meyers [aristeia.com](https://www.aristeia.com/)
 - Ward Cunningham [@WardCunningham](https://twitter.com/WardCunningham)
